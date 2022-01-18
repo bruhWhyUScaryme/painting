@@ -56,14 +56,7 @@
   background: black;
   margin-left: 15px;
 }
-.backhead {
-  width: 30px;
-  height: 190px;
-  background: purple;
-  position: absolute;
-  top: 205px;
-  right: 445px;
-}
+
 .uphead {
   width: 200px;
   height: 30px;
@@ -81,14 +74,7 @@
   top: 400px;
   right: 450px;
 }
-.fronthead {
-  width: 30px;
-  height: 180px;
-  background: purple;
-  position: absolute;
-  top: 210px;
-  right: 670px;
-}
+
 /* ШЕЯ */
 .sheya1 {
   position: absolute;
